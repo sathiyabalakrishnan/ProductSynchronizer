@@ -1,0 +1,4 @@
+target/
+**/target/
+/src/main/java/com/mercado/pmi/model/*_.java
+/.apt_generated_tests/
